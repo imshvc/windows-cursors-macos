@@ -1,5 +1,11 @@
-# macOS Cursors for Microsoft Windows
+# Windows Cursors - macOS
 
-Extract the `windows` folder to the `C` drive and then run `scheme.reg` to apply the cursors schemes.
+macOS cursors for Microsoft Windows operating systems
 
-Then run `main.cpl` and in the `Pointers` tab you should be able to pick any of the macOS cursors from x1 to x7 scale.
+<img src="images/mouse-properties.png" width="100%">
+
+# Installation
+
+1. Navigate to the [Releases](https://github.com/oxou/windows-cursors-macos/releases) page
+2. Download the latest 7z archive and extract it
+3. Read the further instructions inside `readme.txt`
